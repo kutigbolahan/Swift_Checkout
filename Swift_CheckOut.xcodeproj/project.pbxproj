@@ -20,6 +20,7 @@
 		04A5E3CF25867B46009C826F /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5E3CE25867B46009C826F /* ItemRow.swift */; };
 		04A5E3D2258685ED009C826F /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5E3D1258685ED009C826F /* ItemDetail.swift */; };
 		04A5E3D525868FF2009C826F /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5E3D425868FF2009C826F /* OrderView.swift */; };
+		04A5E3D82586C97D009C826F /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A5E3D72586C97D009C826F /* AppView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		04A5E3CE25867B46009C826F /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		04A5E3D1258685ED009C826F /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		04A5E3D425868FF2009C826F /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		04A5E3D72586C97D009C826F /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				044DE9FD25781AA900813652 /* ContentView.swift */,
 				04A5E3D1258685ED009C826F /* ItemDetail.swift */,
 				04A5E3D425868FF2009C826F /* OrderView.swift */,
+				04A5E3D72586C97D009C826F /* AppView.swift */,
 				04A5E3CE25867B46009C826F /* ItemRow.swift */,
 				044DE9FF25781AAD00813652 /* Assets.xcassets */,
 				044DEA0425781AAD00813652 /* LaunchScreen.storyboard */,
@@ -175,6 +178,7 @@
 				04A5E3D2258685ED009C826F /* ItemDetail.swift in Sources */,
 				04A5E3D525868FF2009C826F /* OrderView.swift in Sources */,
 				044DE9FE25781AA900813652 /* ContentView.swift in Sources */,
+				04A5E3D82586C97D009C826F /* AppView.swift in Sources */,
 				04A5E3C4258672F6009C826F /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
